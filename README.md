@@ -1,4 +1,4 @@
-<p align="center">Hi, I'm Viki, known as @forpetlja. Just like a for loop in coding, I’m always in a loop to make things better, iterating and improving every step of the way. As a self-taught full-stack developer, I love diving into projects and building them from the ground up. In addition to coding, I’m also a graphic designer. I completed my studies in graphic design and I love making visual branding!</p>
+<p align="center">Hi, I'm Viki, known as @Forpetlja. Just like a for loop in coding, I’m always in a loop to make things better, iterating and improving every step of the way. As a self-taught full-stack developer, I love diving into projects and building them from the ground up. In addition to coding, I’m also a graphic designer. I completed my studies in graphic design and I love making visual branding!</p>
 
 ###
 
